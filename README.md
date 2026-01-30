@@ -51,12 +51,6 @@ This plugin allows Moodle users to generate PowerPoint presentations from text p
 4. Select "Prompt to PPT"
 5. Give it a name and save
 
-### For Students/Users
-1. Click on the "Prompt to PPT" activity
-2. Enter your presentation topic/prompt
-3. Choose number of slides (1-20)
-4. Click "Generate PPT"
-5. Download your presentation
 
 ## Example Prompts
 - "Create a presentation about Machine Learning fundamentals"
@@ -84,3 +78,4 @@ GNU GPL v3 or later
 ## Author
 Developed by [Your Name]
 Version 0.1 (Proof of Concept)
+
